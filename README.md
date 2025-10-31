@@ -1,6 +1,6 @@
 # SepsisGuard: Machine Learning-based Sepsis Prediction
 
-SepsisGuard is a machine learning-based prediction model designed to predict the likelihood of sepsis in patients using clinical data. The project includes both a Tkinter-based graphical user interface (GUI) and a Streamlit-based web application to facilitate real-time patient data input and provide sepsis predictions.
+Sepsis ML is a machine learning-based prediction model designed to predict the likelihood of sepsis in patients using clinical data in portugal. The project includes real-time patient data input and provide sepsis predictions.
 
 ## Features
 
@@ -25,8 +25,8 @@ To run the project on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sonamthinley888/SepsisGuard.git
-    cd SepsisGuard
+    git clone https://github.com/OussemaRez/SepsisTest.git
+    cd SepsisTest
     ```
 
 2. Install the required dependencies:
