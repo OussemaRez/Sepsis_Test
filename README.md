@@ -1,4 +1,4 @@
-# SepsisGuard: Machine Learning-based Sepsis Prediction
+# SepsisTest: Machine Learning-based Sepsis Prediction
 
 Sepsis ML is a machine learning-based prediction model designed to predict the likelihood of sepsis in patients using clinical data in portugal. The project includes real-time patient data input and provide sepsis predictions.
 
